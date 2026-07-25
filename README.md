@@ -51,3 +51,6 @@ This Project is mainly meant to show what happens after an attacker has access t
 |---|---|---|---|
 | Windows target | 3389 | RDP | Admin access to configure the instance and detonate LaZagne |
 | Windows target | 443 (outbound) | LimaCharlie sensor comms | Required for the sensor to reach LimaCharlie's cloud and receive isolation commands |
+
+### Steps
+### 1)Preparation
