@@ -34,7 +34,7 @@ This Project is mainly meant to show what happens after an attacker has access t
 |---|---|
 | Tactic | Credential Access |
 | Technique | T1003; OS Credential Dumping |
-| Sub-technique | T1003.001; LSASS Memory, T1003.005; Cached Domain Credentials (overlaps T1552 for browser-stored credentials) |
+| Sub-technique | T1003.001; LSASS Memory, T1003.005; Cached Domain Credentials |
 | Evidence | New process creation event for `lazagne.exe` with matching command line, captured by the LimaCharlie sensor and matched by the custom D&R rule |
 
 ### NIST SP 800-61 mapping
