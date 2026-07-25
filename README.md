@@ -41,7 +41,7 @@ It's a working **SOAR** playbook that takes an **EDR** detection for credential 
 | Preparation | EC2 provisioning, LimaCharlie sensor deployment, D&R rule creation, Tines story build, Slack/xsquare integration setup |
 | Detection & Analysis | LimaCharlie fires the D&R rule on LaZagne execution; Tines enriches the raw detection into the 8 key fields and routes it to Slack and email |
 | Containment | Tines prompts the analyst for an isolation decision; on approval, LimaCharlie isolates the sensor via API and confirms status |
-| Eradication & Recovery | Intentionally out of scope — isolation buys time for manual re-image/credential rotation, not performed in this project |
+| Eradication & Recovery | Intentionally out of scope, isolation buys time for manual re image/credential rotation |
 | Post-Incident Activity | Final Slack status message serves as project evidence; README documents lessons learned and known detection gaps |
 
 ### Security group / port configuration
