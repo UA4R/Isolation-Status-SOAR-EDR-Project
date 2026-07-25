@@ -1,1 +1,1 @@
-# Isolation-Status-SOAR-EDR-Project
+# Isolation Status; SOAR EDR Project
