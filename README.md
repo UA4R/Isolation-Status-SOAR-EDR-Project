@@ -21,7 +21,7 @@ This Project is mainly meant to show what happens after an attacker has access t
 | ![Tines](https://img.shields.io/badge/Tines-SOAR-000000?style=flat&logoColor=white) | Workflow orchestration; enrichment, notification, (human in the loop) response |
 | ![Slack](https://img.shields.io/badge/Slack-Notifications-4A154B?style=flat&logo=slack&logoColor=white) | Analyst facing alert delivery and final isolation status |
 | ![xsquare](https://img.shields.io/badge/xsquare-Dummy_Email-6C757D?style=flat&logoColor=white) | Disposable inbox for alert email delivery |
-| ![LaZagne](https://img.shields.io/badge/LaZagne-HackTool-8B0000?style=flat&logoColor=white) | Simulated credential-dumping tool detonated on the target |
+| ![LaZagne](https://img.shields.io/badge/LaZagne-HackTool-8B0000?style=flat&logoColor=white) | Simulated credential dumping tool detonated on the target |
 
 ### Frameworks
 | Framework | Applied as |
@@ -35,7 +35,7 @@ This Project is mainly meant to show what happens after an attacker has access t
 | Tactic | Credential Access |
 | Technique | T1003; OS Credential Dumping |
 | Sub-technique | T1003.001; LSASS Memory, T1003.005; Cached Domain Credentials (overlaps T1552 for browser-stored credentials) |
-| Evidence | New-process-creation event for `lazagne.exe` with matching command line, captured by the LimaCharlie sensor and matched by the custom D&R rule |
+| Evidence | New process creation event for `lazagne.exe` with matching command line, captured by the LimaCharlie sensor and matched by the custom D&R rule |
 
 ### NIST SP 800-61 mapping
 | NIST 800-61 phase | What applies here |
