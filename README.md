@@ -17,7 +17,7 @@ Spin up a working **SOAR** playbook that takes an **EDR** detection for credenti
 | ![Windows Server](https://img.shields.io/badge/Windows_Server-2022-0078D6?style=flat&logo=windows&logoColor=white) | Base OS for the target endpoint |
 | ![LimaCharlie](https://img.shields.io/badge/LimaCharlie-EDR-1E2A38?style=flat&logoColor=white) | EDR agent, telemetry collection, custom detection rule, sensor isolation |
 | ![Tines](https://img.shields.io/badge/Tines-SOAR-000000?style=flat&logoColor=white) | Workflow orchestration; enrichment, notification, (human in the loop) response |
-| ![Slack](https://img.shields.io/badge/Slack-Notifications-4A154B?style=flat&logo=slack&logoColor=white) | Analyst-facing alert delivery and final isolation status |
+| ![Slack](https://img.shields.io/badge/Slack-Notifications-4A154B?style=flat&logo=slack&logoColor=white) | Analyst facing alert delivery and final isolation status |
 | ![xsquare](https://img.shields.io/badge/xsquare-Dummy_Email-6C757D?style=flat&logoColor=white) | Disposable inbox for alert email delivery |
 | ![LaZagne](https://img.shields.io/badge/LaZagne-HackTool-8B0000?style=flat&logoColor=white) | Simulated credential-dumping tool detonated on the target |
 
