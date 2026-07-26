@@ -3,7 +3,7 @@
 ## Objectives
 Spin up a working **SOAR** playbook that takes an **EDR** detection for credential dumping, enriches it and notifies the right channels automatically, then lets an analyst make the containment call with one click. It's built with an explicit understanding of the detection blind spots and what happens after containment.
 
-This Project is mainly meant to show what happens after an attacker has access to an infrastructure post exploitation and what analyst are meant to do to mitigate such threats, in this case; Credential Dumping.
+This Project is mainly meant to show what happens post exploitation; after an attacker has access to an infrastructure post exploitation and what analyst are meant to do to mitigate such threats, in this case; Credential Dumping.
 
 ### Skills Learnt
 - SOAR Automation= Built a multi-stage Tines playbook that chains detection, enrichment, notification and conditional response with a {human in the loop} containment decision.
