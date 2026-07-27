@@ -95,4 +95,8 @@ This Project is mainly meant to show what happens post exploitation; after an at
 ### Lessons Learnt
 -  Credential Dump are a real hazard when it comes to cybersecurity risks and proper defence should be put in place to avoid it like the demonstrated isolation technique
 -  Attackers gaining access to a system post-exploit signals a weak security infrastructure, so proper security posture should be put in place to avoid this
--  To avoid the passwords stolen from being used, credit rotation should be put in place as a safey net and the isolated machine should be investigated thoroughly. 
+-  To avoid the passwords stolen from being used, credit rotation should be put in place as a safey net and the isolated machine should be investigated thoroughly.
+
+
+### Conclusion
+This project demonstrates how real life SOC Analyst operations take place and how post exploitation protocols are followed in such incidents. Finally as a project wrap up, the instance was immediately terminated successfully for cost efficiency in terms of the cloud environment.
