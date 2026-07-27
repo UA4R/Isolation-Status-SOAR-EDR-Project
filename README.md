@@ -84,4 +84,9 @@ This Project is mainly meant to show what happens post exploitation; after an at
 
 
 ### 2)Detection & Analysis
+- So for this, I re-run the whole thing from initiating the attack to isolating the machine and it was a huge success.
 
+
+### 3)Post Incident Activity
+### Lessons Learnt
+- 
