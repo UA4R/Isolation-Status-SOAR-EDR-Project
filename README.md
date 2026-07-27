@@ -58,13 +58,13 @@ This Project is mainly meant to show what happens post exploitation; after an at
 ![image_alt](https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project/blob/main/Project%203%20Screenshots/1.png)
 
 - For the next step, I logged into my windows Remote Desktop Protocol using my host machine and provided the necessary credential to access my vm windows UI.
-
+![image_alt](https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project/blob/main/Project%203%20Screenshots/2.png)
 
 - So for the next step, I disabled Windows Defender real time protection which is needed so LaZagne (credential dump) doesn't get quarantined the moment I detonate it later on my VM. In real time production environment, you should never do this. 
-
+![image_alt](https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project/blob/main/Project%203%20Screenshots/4.png)
 
 - For the next step, I deployed LimaCharlie on my host machine and connected the windows agent from host LimaCharlie to my VM.
-
+![image_alt](https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project/blob/main/Project%203%20Screenshots/4.png)
 
 - So for the next step, I detonated LaZagne to my VM which is a form of post exploitation technique mimicking real world credential dump.
 
