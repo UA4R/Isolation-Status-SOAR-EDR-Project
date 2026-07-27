@@ -84,9 +84,15 @@ This Project is mainly meant to show what happens post exploitation; after an at
 
 
 ### 2)Detection & Analysis
-- So for this, I re-run the whole thing from initiating the attack to isolating the machine and it was a huge success.
+- So for this, I re-run the whole thing from initiating the attack to detecting and it was a huge success. 
 
 
-### 3)Post Incident Activity
+### 3)Containment, Eradication & Recovery
+- The credential Dump was detected and the machine was successfully isolated.
+
+
+### 4)Post Incident Activity
 ### Lessons Learnt
-- 
+-  Credential Dump are a real hazard when it comes to cybersecurity risks and proper defence should be put in place to avoid it like the demonstrated isolation technique
+-  Attackers gaining access to a system post-exploit signals a weak security infrastructure, so proper security posture should be put in place to avoid this
+-  To avoid the passwords stolen from being used, credit rotation should be put in place as a safey net and the isolated machine should be investigated thoroughly. 
