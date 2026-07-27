@@ -64,13 +64,21 @@ This Project is mainly meant to show what happens post exploitation; after an at
 ![image_alt](https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project/blob/main/Project%203%20Screenshots/3.png)
 
 - For the next step, I deployed LimaCharlie on my host machine and connected the windows agent from host LimaCharlie to my VM.
-![image_alt](https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project/blob/main/Project%203%20Screenshots/4.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/4.png" width="49%" />
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/5.png" width="49%" />
+</p>
 - So for the next step, I detonated LaZagne to my VM which is a form of post exploitation technique mimicking real world credential dump.
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/6.png" width="49%" />
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/7.png" width="49%" />
+</p>
 
 - For the next steP, I built a custom D&R rule on LimaCharlie. Then, I re-detonated the attack again on my VM to see in my LimaCharlie if the detection was gotten.
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/8.png" width="49%" />
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/9.png" width="49%" />
+</p>
 
 - For the next step, I connected LimaCharlie to Tines throught webhook configuration and tested again to see if the results came through to tines
 
@@ -100,3 +108,4 @@ This Project is mainly meant to show what happens post exploitation; after an at
 
 ### Conclusion
 This project demonstrates how real life SOC Analyst operations take place and how post exploitation protocols are followed in such incidents. Finally as a project wrap up, the instance was immediately terminated successfully for cost efficiency in terms of the cloud environment.
+![image_alt](https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project/blob/main/Project%203%20Screenshots/20.png)
