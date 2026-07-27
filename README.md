@@ -64,7 +64,10 @@ This Project is mainly meant to show what happens post exploitation; after an at
 ![image_alt](https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project/blob/main/Project%203%20Screenshots/3.png)
 
 - For the next step, I deployed LimaCharlie on my host machine and connected the windows agent from host LimaCharlie to my VM.
-![image_alt](https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project/blob/main/Project%203%20Screenshots/3.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/4.png" width="49%" />
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/5.png" width="49%" />
+</p>
 
 - So for the next step, I detonated LaZagne to my VM which is a form of post exploitation technique mimicking real world credential dump.
 <p align="center">
