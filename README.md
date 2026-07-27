@@ -55,7 +55,7 @@ This Project is mainly meant to show what happens post exploitation; after an at
 ### Steps
 ### 1)Preparation
 - So for this project we are spinning up a single instance infrastructure on AWS. Principle of least privilege was applied by configuring all ports accordingly. The instance name is soar-edr-victim. The instance was launched in IAM, not Root. The AMI we are using this time is windows server 2022 base. 
-![image_alt}(https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project/blob/main/Project%203%20Screenshots/1.png)
+![image_alt](https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project/blob/main/Project%203%20Screenshots/1.png)
 
 - For the next step, I logged into my windows Remote Desktop Protocol using my host machine and provided the necessary credential to access my vm windows UI.
 
