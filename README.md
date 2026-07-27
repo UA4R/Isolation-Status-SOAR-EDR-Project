@@ -63,4 +63,10 @@ This Project is mainly meant to show what happens post exploitation; after an at
 - So for the next step, I disabled Windows Defender real time protection which is needed so LaZagne (credential dump) doesn't get quarantined the moment I detonate it later on my VM. In real time production environment, you should never do this. 
 
 
-- For the next step, I deployed LimaCharlie
+- For the next step, I deployed LimaCharlie on my host machine and connected the windows agent from host LimaCharlie to my VM.
+
+
+- So for the next step, I detonated LaZagne to my VM which is a form of post exploitation technique mimicking real world credential dump.
+
+
+- 
