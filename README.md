@@ -69,4 +69,18 @@ This Project is mainly meant to show what happens post exploitation; after an at
 - So for the next step, I detonated LaZagne to my VM which is a form of post exploitation technique mimicking real world credential dump.
 
 
-  - 
+- For the next steP, I built a custom D&R rule on LimaCharlie. Then, I re-detonated the attack again on my VM to see in my LimaCharlie if the detection was gotten.
+
+
+- For the next step, I connected LimaCharlie to Tines throught webhook configuration and tested again to see if the results came through to tines
+
+
+- For the next step, I configured Slack to tines and tested the connection to see if it went through. Time may look distorted, but one can use the epoch converter for appropriate time approximation.
+
+
+- For the next step, I configured email to tines and tested if it sent.
+
+- For the next step, I added a page and the rest of the configurations.
+
+
+### 2)Detection & Analysis
