@@ -68,5 +68,4 @@ This Project is mainly meant to show what happens post exploitation; after an at
 
 - So for the next step, I detonated LaZagne to my VM which is a form of post exploitation technique mimicking real world credential dump.
 
-
-- 
+ - 
