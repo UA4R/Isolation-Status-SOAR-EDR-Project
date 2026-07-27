@@ -60,6 +60,7 @@ This Project is mainly meant to show what happens post exploitation; after an at
 - For the next step, I logged into my windows Remote Desktop Protocol using my host machine and provided the necessary credential to access my vm windows UI.
 
 
-- So for the next step, I disable Windows Defender real time protection which is needed so LaZagne (credential dump) doesn't get quarantined the moment I detonate it later on my VM.
+- So for the next step, I disabled Windows Defender real time protection which is needed so LaZagne (credential dump) doesn't get quarantined the moment I detonate it later on my VM. In real time production environment, you should never do this. 
 
 
+- For the next step, I deployed LimaCharlie
