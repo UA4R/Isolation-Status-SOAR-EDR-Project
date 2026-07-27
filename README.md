@@ -73,13 +73,11 @@ This Project is mainly meant to show what happens post exploitation; after an at
   <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/6.png" width="49%" />
   <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/7.png" width="49%" />
 </p>
-
 - For the next steP, I built a custom D&R rule on LimaCharlie. Then, I re-detonated the attack again on my VM to see in my LimaCharlie if the detection was gotten.
 <p align="center">
   <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/8.png" width="49%" />
   <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/9.png" width="49%" />
 </p>
-
 - For the next step, I connected LimaCharlie to Tines throught webhook configuration and tested again to see if the results came through to tines
 
 
