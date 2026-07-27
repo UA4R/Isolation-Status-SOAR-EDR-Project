@@ -95,15 +95,21 @@ This Project is mainly meant to show what happens post exploitation; after an at
 ![image_alt](https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project/blob/main/Project%203%20Screenshots/14-edit.png)
 
 - For the next step, I added a page and the rest of the configurations.
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/15.png" width="49%" />
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/16.png" width="49%" />
+</p>
 
 ### 2)Detection & Analysis
 - So for this, I re-run the whole thing from initiating the attack to detecting and it was a huge success. 
-
+![image_alt](https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project/blob/main/Project%203%20Screenshots/17.png)
 
 ### 3)Containment, Eradication & Recovery
 - The credential Dump was detected and the machine was successfully isolated.
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/18.png" width="49%" />
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/19.png" width="49%" />
+</p>
 
 ### 4)Post Incident Activity
 ### Lessons Learnt
