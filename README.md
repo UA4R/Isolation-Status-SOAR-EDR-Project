@@ -80,12 +80,19 @@ This Project is mainly meant to show what happens post exploitation; after an at
   <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/9.png" width="49%" />
 </p>
 - For the next step, I connected LimaCharlie to Tines throught webhook configuration and tested again to see if the results came through to tines
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/10.png" width="49%" />
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/11.png" width="49%" />
+</p>
 
 - For the next step, I configured Slack to tines and tested the connection to see if it went through. Time may look distorted, but one can use the epoch converter for appropriate time approximation.
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/12.png" width="49%" />
+  <img src="https://raw.githubusercontent.com/UA4R/Isolation-Status-SOAR-EDR-Project/main/Project%203%20Screenshots/13.png" width="49%" />
+</p>
 
 - For the next step, I configured email to tines and tested if it sent.
+![image_alt](https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project/blob/main/Project%203%20Screenshots/14-edit.png)
 
 - For the next step, I added a page and the rest of the configurations.
 
