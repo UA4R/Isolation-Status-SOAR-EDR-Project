@@ -115,7 +115,8 @@ This Project is mainly meant to show what happens post exploitation; after an at
 ### Lessons Learnt
 -  Credential Dump are a real hazard when it comes to cybersecurity risks and proper defence should be put in place to avoid it like the demonstrated isolation technique
 -  Attackers gaining access to a system post-exploit signals a weak security infrastructure, so proper security posture should be put in place to avoid this
--  To avoid the passwords stolen from being used, credit rotation should be put in place as a safey net and the isolated machine should be investigated thoroughly.
+-  To avoid the passwords stolen from being used, credit rotation should be put in place as a safety net and the isolated machine should be investigated thoroughly.
+-  For D&R rule, attackers could use a different binary meaning signature based rule couldn't detect but a behavioural based rule on the LSASS memory would be more efficient and if paired together would make a stronger D&R rule and overall security posture. 
 
 
 ### Conclusion
